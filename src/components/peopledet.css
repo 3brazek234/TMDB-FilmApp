@@ -1,0 +1,15 @@
+.count {
+height: 100vh;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.der {
+    width: 80%;
+    height: 80%;
+}
+.text {
+    display: flex;
+    align-items: center;
+}

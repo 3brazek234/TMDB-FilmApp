@@ -1,0 +1,52 @@
+.header {
+    background-color: #1b1b1b;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .header-content {
+    display: flex;
+    gap: 20px;
+    width: 80%;
+  }
+  
+  .poster {
+    width: 300px;
+    border-radius: 10px;
+  }
+  
+  .movie-info {
+    flex: 1;
+  }
+  
+  .movie-info h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .genre {
+    color: #8f8f8f;
+    margin-bottom: 10px;
+  }
+  
+  .user-score {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    margin: 10px 0;
+  }
+  
+  .user-score span {
+    color: #28a745;
+    font-weight: bold;
+  }
+  
+  .overview {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
