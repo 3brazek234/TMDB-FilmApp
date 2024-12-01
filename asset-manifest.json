@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TMDB-FilmApp/static/css/main.a4b737a4.css",
+    "main.js": "/TMDB-FilmApp/static/js/main.9717305a.js",
+    "static/js/453.26796fb8.chunk.js": "/TMDB-FilmApp/static/js/453.26796fb8.chunk.js",
+    "index.html": "/TMDB-FilmApp/index.html",
+    "main.a4b737a4.css.map": "/TMDB-FilmApp/static/css/main.a4b737a4.css.map",
+    "main.9717305a.js.map": "/TMDB-FilmApp/static/js/main.9717305a.js.map",
+    "453.26796fb8.chunk.js.map": "/TMDB-FilmApp/static/js/453.26796fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4b737a4.css",
+    "static/js/main.9717305a.js"
+  ]
+}
