@@ -1,4 +1,20 @@
+..navbar-nav {
+  display: flex; /* استخدام Flexbox */
+  justify-content: flex-start; /* العناصر تتحاذى إلى اليسار */
+  margin-left: 0; /* إزالة أي هوامش إضافية */
+  padding-left: 0;
+}
 
+.navbar-nav .nav-item {
+  margin-right: 1rem; /* مسافة بين العناصر */
+}
+
+.dropdown-menu {
+  text-align: left; 
+}
+
+
+/* 
 .navbar {
     font-family: Arial, sans-serif;
     font-size: 1rem;
@@ -89,4 +105,4 @@
   li {
     text-decoration: none;
     list-style: none;
-  }
+  } */
